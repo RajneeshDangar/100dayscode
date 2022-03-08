@@ -1,4 +1,4 @@
-Hello guys, I build twitter called @100dayscode that promote programmer by retweeting her tweets about #100daysofcode challenge. 
+Hello guys, I build twitter bot called @100dayscode that promote programmer to code by retweeting her tweets about #100daysofcode challenge. 
 
 
 
